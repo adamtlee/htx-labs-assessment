@@ -2,13 +2,21 @@
 
 1. How do you determine if a 3D point lies inside a 3D sphere?
 To determine if a 3D point lies inside of a 3D sphere, I would use the distance formula listed below:
+
 `distance = sqrt((x2 - x1)^2 + (y2 - y1)^2 + (z2 - z1)^2)`
+
 For example if the sphere had a center of `(0,0,0)` and a radius of `5` and there was a point of `(3,4,5)` that was the point in question, I can calculate the distance using the formula:
+
 `distance = sqrt((0 - 3)^2 + (0 - 4)^2 + (0 - 5)^2)`
+
 `distance = sqrt((-3)^2 + (-4)^2 + (-5)^2)`
+
 `distance = sqrt(9 + 16 + 25)`
+
 `distance = sqrt(50)`
+
 `distance = 7.07`
+
 Since this is out of range between the distance of `0` to `5` the point `(3,4,5)` is out of range of the 3D Sphere.
 
 2. The following diagram contains 5 squares in a 2x2 configuration (four 1x1 + one 2x2):
