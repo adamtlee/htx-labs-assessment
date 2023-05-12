@@ -35,6 +35,8 @@ particles, the lifetime of each particle, the velocities of the particles, etc.
 - Particle groups can be scaled and rotated.
 - Particle groups can be ended early.
 
+- See the folder here: [HtxLabs](src/HtxLabs/)
+
 4. Define a list of unit tests to validate an implementation of the particle system interface from the
 previous question.
 
