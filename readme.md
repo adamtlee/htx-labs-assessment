@@ -40,42 +40,42 @@ particles, the lifetime of each particle, the velocities of the particles, etc.
 4. Define a list of unit tests to validate an implementation of the particle system interface from the
 previous question.
 
-1. Test Case: creating a new particle group with a valid type ID.
+- Test Case: creating a new particle group with a valid type ID.
 	- Assert the particle group has the expected properties such as particle count, lifetime, and velocities.
 	- Assert the particle group is added to the system's list of active particle groups.
 
-2. Test Case: attaching a particle group to a model.
+- Test Case: attaching a particle group to a model.
 	- Assert the particle group is properly attached to the model.
 	- Assert the particle group's position and orientation matches that of the model.
 
-3. Test Case: placing a particle group at a location.
+- Test Case: placing a particle group at a location.
 	- Assert the particle group is placed at the specified location.
 	- Assert the particle group's position and orientation are not affected by the location change.
 
-4. Test Case: placing a particle group in screen space.
+- Test Case: placing a particle group in screen space.
 	- Assert the particle group is placed in screen space.
 	- Assert the particle group's position and orientation are not affected by the screen space placement.
 
-5. Test Case: scaling a particle group.
+- Test Case: scaling a particle group.
 	- Assert the particle group is scaled by the given factor.
 	- Assert the particle group's position and orientation are not affected by the scaling.
 
-6. Test Case: rotating a particle group.	
+- Test Case: rotating a particle group.	
 	- Assert the particle group is rotated by the given angle.
 	- Assert the particle group's position and orientation are updated correctly.
 
-7. Test Case: ending a particle group early.
+- Test Case: ending a particle group early.
 	- Assert the particle group is no longer active and is removed from the system's list of active particle groups.
 
-8. Test Case: creating a new particle group with an invalid type ID.
+- Test Case: creating a new particle group with an invalid type ID.
 	- Assert an exception is thrown indicating that the type ID is invalid.
 	- Assert the system's list of active particle groups is not modified.
 
-8. Test Case: attempting to attach a particle group to an invalid model.
+- Test Case: attempting to attach a particle group to an invalid model.
 	- Assert an exception is thrown indicating that the model is invalid.
 	- Assert the system's list of active particle groups is not modified.
 
-9. Test Case: attempting to end an inactive particle group.
+- Test Case: attempting to end an inactive particle group.
 	- Assert an exception is thrown indicating that the particle group is not active.
 	- Assert the system's list of active particle groups is not modified.
 
