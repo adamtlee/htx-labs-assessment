@@ -79,6 +79,8 @@ previous question.
 	- Assert an exception is thrown indicating that the particle group is not active.
 	- Assert the system's list of active particle groups is not modified.
 
+Also see [Sample Test Cases](src/HtxLabs.Tests/)
+
 5. Write a boid system in C# or JS. You can use any libraries or tech you want. The only stipulation
 is that the system needs to simulate a flying insect swarm instead of the normal birds/fish. The
 deliverable on this is the code as well as a screenshot (or video) that you think best exemplifies the
