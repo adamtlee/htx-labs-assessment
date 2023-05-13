@@ -21,4 +21,7 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HtxLabs\HtxLabs.csproj" />
+  </ItemGroup>
 </Project>
