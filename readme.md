@@ -23,7 +23,10 @@ Since this is out of range between the distance of `0` to `5` the point `(3,4,5)
 Implement a function in either C++ or C# that takes a parameter of N, where N is the size of
 the NxN matrix of any size greater than 0 and returns the total number of squares in the
 matrix. For example, in C++ the function signature looks like this:
+
 **See project here:** [HtxLabs Square Exercise](src/HtxSquareLab/) 
+
+**See the Test cases here:** [HtxLabs Square Exercise Tests](src/HtxLabs.Tests/SquareLabTest.cs)
 
 
 3. Design the interface for a game particle system in C#. The system should support creating
