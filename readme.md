@@ -23,6 +23,8 @@ Since this is out of range between the distance of `0` to `5` the point `(3,4,5)
 Implement a function in either C++ or C# that takes a parameter of N, where N is the size of
 the NxN matrix of any size greater than 0 and returns the total number of squares in the
 matrix. For example, in C++ the function signature looks like this:
+**See project here:** [HtxLabs Square Exercise](src/HtxSquareLab/) 
+
 
 3. Design the interface for a game particle system in C#. The system should support creating
 multiple particle groups in the game world. Show only the interface to the system, without
@@ -35,7 +37,7 @@ particles, the lifetime of each particle, the velocities of the particles, etc.
 - Particle groups can be scaled and rotated.
 - Particle groups can be ended early.
 
-**See the folder here:** [HtxLabs](src/HtxLabs/)
+**See the folder here:** [HtxLabs Particle System](src/HtxLabs/)
 
 4. Define a list of unit tests to validate an implementation of the particle system interface from the
 previous question.
@@ -79,7 +81,7 @@ previous question.
 	- Assert an exception is thrown indicating that the particle group is not active.
 	- Assert the system's list of active particle groups is not modified.
 
-Also see [Sample Test Cases](src/HtxLabs.Tests/)
+**Also see:** [Sample Test Cases](src/HtxLabs.Tests/)
 
 5. Write a boid system in C# or JS. You can use any libraries or tech you want. The only stipulation
 is that the system needs to simulate a flying insect swarm instead of the normal birds/fish. The

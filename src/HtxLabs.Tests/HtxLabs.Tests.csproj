@@ -23,5 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HtxLabs\HtxLabs.csproj" />
+    <ProjectReference Include="..\HtxSquareLab\HtxSquareLab.csproj" />
   </ItemGroup>
 </Project>
