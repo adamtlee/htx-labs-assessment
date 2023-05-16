@@ -93,7 +93,7 @@ behavior.
 
 See result below:
 
-[![video](https://youtu.be/HRPcGyvvjj8)](https://youtu.be/HRPcGyvvjj8)
+[![video](https://i9.ytimg.com/vi_webp/HRPcGyvvjj8/mq1.webp?sqp=CIDai6MG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACiAWKAgwIABABGGcgZyhnMA8=&rs=AOn4CLBfcI-hokVVt2pPp8eOW6R0PyCB-w)](https://youtu.be/HRPcGyvvjj8)
 
 
 6. Consider an e-commerce system that will support multiple forms of payment, a shopping cart,
