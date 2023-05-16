@@ -91,10 +91,7 @@ is that the system needs to simulate a flying insect swarm instead of the normal
 deliverable on this is the code as well as a screenshot (or video) that you think best exemplifies the
 behavior.
 
-See result below:
-
-<iframe width="560" height="315" src="https://youtu.be/HRPcGyvvjj8" frameborder="0" allowfullscreen></iframe>
-
+Click result below:
 
 [![video](https://i9.ytimg.com/vi_webp/HRPcGyvvjj8/mq1.webp?sqp=CIDai6MG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACiAWKAgwIABABGGcgZyhnMA8=&rs=AOn4CLBfcI-hokVVt2pPp8eOW6R0PyCB-w)](https://youtu.be/HRPcGyvvjj8)
 
